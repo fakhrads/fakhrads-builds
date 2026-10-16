@@ -26,4 +26,3 @@ Android 17 · Unofficial · by Fakhri
 - **Wi-Fi in the Setup Wizard:** use WPA3 or WPA2/WPA3 mixed mode. An upstream Evolution X bug makes the
   Setup Wizard treat WPA2-only networks as WPA3, so they fail to connect. On a WPA2-only network, skip Wi-Fi
   during setup and connect from Settings afterwards, which works normally.
-- NotGameTurbo can crash once right after boot, before the first unlock.
