@@ -1,0 +1,30 @@
+{
+  "response": [
+    {
+      "maintainer": "Fakhri",
+      "currently_maintained": true,
+      "oem": "Xiaomi",
+      "device": "POCO F7",
+      "filename": "EvolutionX-17.0-20261017-onyx-12.3-Unofficial-05e3185446.zip",
+      "download": "https://sourceforge.net/projects/fakhrads-builds/files/onyx/EvolutionX/17/20261017/EvolutionX-17.0-20261017-onyx-12.3-Unofficial-05e3185446.zip/download",
+      "timestamp": 1792203815,
+      "md5": "c373736980cb6b73cbbb050a138ce442",
+      "sha256": "05e31854462bd7914fdebb78c964aa80461bfdaf1d4dcfc267cac1c466ce05b6",
+      "size": 4935086114,
+      "version": "12.3",
+      "buildtype": "user",
+      "forum": "https://github.com/fakhrads/fakhrads-builds",
+      "firmware": "",
+      "paypal": "",
+      "github": "fakhrads",
+      "initial_installation_images": [
+        "boot",
+        "dtbo",
+        "init_boot",
+        "vendor_boot",
+        "recovery"
+      ],
+      "extra_images": []
+    }
+  ]
+}
