@@ -1,7 +1,7 @@
 {
   "response": [
     {
-      "maintainer": "Fakhri",
+      "maintainer": "fakhrads",
       "currently_maintained": true,
       "oem": "Xiaomi",
       "device": "POCO F7",
@@ -14,7 +14,7 @@
       "version": "12.3",
       "buildtype": "user",
       "forum": "https://github.com/fakhrads/fakhrads-builds",
-      "firmware": "",
+      "firmware": "OS3.0.303.0.WOLMIXM",
       "paypal": "",
       "github": "fakhrads",
       "initial_installation_images": [
