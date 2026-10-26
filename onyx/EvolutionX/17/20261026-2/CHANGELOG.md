@@ -28,7 +28,7 @@ Android 17 · Unofficial · by fakhrads
 - **BypassCharging**: redesigned page with a live hero card and temperatures.
 
 ### System & Launcher
-- **Zero Launcher removed**: back to the Evolution X launcher.
+- **Zero Launcher removed**: back to the Pixel launcher.
 
 ## Known issues
 
