@@ -1,16 +1,16 @@
 {
   "response": [
     {
-      "maintainer": "Fakhri",
+      "maintainer": "fakhrads",
       "currently_maintained": true,
       "oem": "Xiaomi",
       "device": "POCO F7",
-      "filename": "EvolutionX-17.0-20261026-onyx-12.3-Unofficial-35ac8148cb.zip",
-      "download": "https://sourceforge.net/projects/fakhrads-builds/files/onyx/EvolutionX/17/20261026-2/EvolutionX-17.0-20261026-onyx-12.3-Unofficial-35ac8148cb.zip/download",
-      "timestamp": 1793006034,
-      "md5": "c9692450293a2b70a9eb66771ebc88c1",
-      "sha256": "35ac8148cb71852f04b77b7fca394861bb57db1ab876da92cd3f58be4536caaf",
-      "size": 5122550589,
+      "filename": "EvolutionX-17.0-20261027-onyx-12.3-Unofficial-57011cafe1.zip",
+      "download": "https://sourceforge.net/projects/fakhrads-builds/files/onyx/EvolutionX/17/20261027/EvolutionX-17.0-20261027-onyx-12.3-Unofficial-57011cafe1.zip/download",
+      "timestamp": 1793098276,
+      "md5": "715b2838487aadf62db66a5044621314",
+      "sha256": "57011cafe18b441e461f32d28b79dc0d02e1ed7597f1f4fdf4bc20a6bc7479e0",
+      "size": 5106040974,
       "version": "12.3",
       "buildtype": "user",
       "forum": "https://github.com/fakhrads/fakhrads-builds",
