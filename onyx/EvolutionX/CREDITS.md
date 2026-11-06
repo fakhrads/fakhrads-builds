@@ -5,7 +5,7 @@
 - **Zarathos30**: MCA device tree changes
 - **unmoved21**: Dolby audio bring-up
 - **Ghosuto**: LunarisDolby
-- **Arian**: LeicaCam bring-up
+- **Sachin Pawar & romgharti**: LeicaCam port & bring-up
 - **Infinity-X Team**: base for ZeroLauncher (Launcher3)
 - **crDroid and AxionAOSP onyx teams**
 - **LineageOS and Evolution X teams**
