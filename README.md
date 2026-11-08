@@ -10,6 +10,7 @@ flashing guides and credits.
 
 | Build | Download | Changelog |
 |---|---|---|
+| 20261108 | [SourceForge](https://sourceforge.net/projects/fakhrads-builds/files/onyx/EvolutionX/17/20261108/) | [CHANGELOG](onyx/EvolutionX/17/20261108/CHANGELOG.md) |
 | 20261106 | [SourceForge](https://sourceforge.net/projects/fakhrads-builds/files/onyx/EvolutionX/17/20261106/) | [CHANGELOG](onyx/EvolutionX/17/20261106/CHANGELOG.md) |
 | 20261105 | [SourceForge](https://sourceforge.net/projects/fakhrads-builds/files/onyx/EvolutionX/17/20261105/) | [CHANGELOG](onyx/EvolutionX/17/20261105/CHANGELOG.md) |
 | 20261104 | [SourceForge](https://sourceforge.net/projects/fakhrads-builds/files/onyx/EvolutionX/17/20261104/) | [CHANGELOG](onyx/EvolutionX/17/20261104/CHANGELOG.md) |
