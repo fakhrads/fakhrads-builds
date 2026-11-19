@@ -1,0 +1,10 @@
+{
+  "devices": [
+    {
+      "codename": "onyx",
+      "device_name": "POCO F7",
+      "maintainer": "fakhrads",
+      "support_group": "https://t.me/onlydev_group"
+    }
+  ]
+}

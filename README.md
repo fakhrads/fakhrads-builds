@@ -6,6 +6,12 @@ flashing guides and credits.
 
 ## POCO F7 (onyx)
 
+### DerpFest 17 (Android 17)
+
+| Build | Download | Changelog |
+|---|---|---|
+| 20261119 | [SourceForge](https://sourceforge.net/projects/fakhrads-builds/files/onyx/DerpFest/17/20261119/) | [CHANGELOG](onyx/DerpFest/17/20261119/CHANGELOG.md) |
+
 ### Evolution X 17 (Android 17)
 
 | Build | Download | Changelog |
